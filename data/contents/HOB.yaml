@@ -132,6 +132,31 @@ products:
     - count: 3
       name: The Hobbit Play Booster Pack
       set: hob
+    card:
+    - name: "Fíli and Kíli, Joyous"
+      set: "hoc"
+      number: "1"
+      foil: true
+    - name: "Gandalf, Party Guest"
+      set: "hoc"
+      number: "2"
+      foil: true
+    - name: "Thorin, King of Durin's Folk"
+      set: "hoc"
+      number: "3"
+      foil: true
+    - name: "Bilbo, Fellow Conspirator"
+      set: "hoc"
+      number: "4"
+      foil: true
+    - name: "Bag End Banquet"
+      set: "hoc"
+      number: "5"
+      foil: true
+    - name: "Ori, Plate Stacker"
+      set: "hoc"
+      number: "6"
+      foil: true
   The Hobbit Scene Box Set of 2:
     sealed:
     - count: 1
@@ -148,6 +173,31 @@ products:
     - count: 3
       name: The Hobbit Play Booster Pack
       set: hob
+    card:
+    - name: "Long-Lost Lances"
+      set: "hoc"
+      number: "7"
+      foil: true
+    - name: "Dragon-Cursed Halls"
+      set: "hoc"
+      number: "8"
+      foil: true
+    - name: "Smaug the Impenetrable"
+      set: "hoc"
+      number: "9"
+      foil: true
+    - name: "Bilbo's Burglaring"
+      set: "hoc"
+      number: "10"
+      foil: true
+    - name: "Dragon's Desire"
+      set: "hoc"
+      number: "11"
+      foil: true
+    - name: "Necklace of Girion"
+      set: "hoc"
+      number: "12"
+      foil: true
   The Hobbit Welcome Deck Black:
     deck:
     - name: Black Deck
